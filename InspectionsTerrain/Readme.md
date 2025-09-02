@@ -78,6 +78,9 @@ Formulaire d'ajout d'inspection
 
 <img width="1197" height="677" alt="image" src="https://github.com/user-attachments/assets/7a017950-46b9-4ab4-bbce-2d59f078a7cd" />
 
+<img width="1035" height="586" alt="image" src="https://github.com/user-attachments/assets/2eee8df8-5f2c-47ce-a2d2-03c072b33449" />
+
+
 
 
 

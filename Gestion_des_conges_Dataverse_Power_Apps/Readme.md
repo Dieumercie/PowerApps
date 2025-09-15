@@ -200,6 +200,19 @@ Contient : tables, vues, formulaires, apps, flux.
 
 
 
+<img width="1307" height="847" alt="image" src="https://github.com/user-attachments/assets/dd94b588-84e0-4a21-8144-82791252c16e" />
+
+<img width="1442" height="818" alt="image" src="https://github.com/user-attachments/assets/94ef9e79-0503-4ee4-a2de-d308273e34bc" />
+
+
+
+<img width="1337" height="748" alt="image" src="https://github.com/user-attachments/assets/7e56bead-195e-4159-9e78-5416ca42aabe" />
+
+
+<img width="1196" height="866" alt="image" src="https://github.com/user-attachments/assets/5edd8571-9c23-4576-a6d3-240af6c63056" />
+
+
+
 
 
 

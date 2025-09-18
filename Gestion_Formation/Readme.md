@@ -99,18 +99,21 @@ Les employés n’ont accès qu’à leurs propres données.
 
 #### 📌 Les captures d’écran associées montrent :
 
-Le catalogue filtrable et recherchable.
+##### Le catalogue filtrable et recherchable.
 
 <img width="846" height="411" alt="image" src="https://github.com/user-attachments/assets/e99df8d9-5223-41af-a336-9b57b3b87175" />
 <img width="1820" height="647" alt="image" src="https://github.com/user-attachments/assets/9f7cc52a-c762-4ee3-a658-1100412eabed" />
 <img width="1823" height="540" alt="image" src="https://github.com/user-attachments/assets/18068d74-f36b-4390-8e08-8fbd5513ad8d" />
 
+##### Le formulaire d’inscription prérempli avec le compte connecté.
+
+<img width="1572" height="760" alt="image" src="https://github.com/user-attachments/assets/be6aabe7-3c09-4de4-b9f4-9de6a192244b" />
+<img width="1852" height="812" alt="image" src="https://github.com/user-attachments/assets/70845fa1-f1a8-4453-a467-df2d45cae9e9" />
 
 
-Le formulaire d’inscription prérempli avec le compte connecté.
+##### L’historique personnel des formations suivies.
+<img width="973" height="547" alt="image" src="https://github.com/user-attachments/assets/a3fd2ce5-027c-4283-8707-e563efe7d514" />
 
-L’historique personnel des formations suivies.
-
-
+##### Mes FeedBacks
 <img width="883" height="493" alt="image" src="https://github.com/user-attachments/assets/fe7fe098-f71f-4562-9b87-9b70354da9fb" />
 
